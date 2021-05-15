@@ -13,9 +13,10 @@ All the credits goes to @megantiu, i've just ported the colors to Konsole.
 
 ![screenshot](./screenshot.png)
 
+screenshot generated using [screenshotTable.sh](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/ea6f5ff97f23902bb62334bfc8f4974fbd65b48b/tools/screenshotTable.sh)
 ## Instalation
 
-1. Copy true.colorscheme to ~./local/share/konsole
+1. Copy `True.colorscheme` to ~./local/share/konsole
 2. Open Konsole and go to Settings>Edit Current Profile > Appearance
 3. Chose true colorscheme from there
 
